@@ -16,4 +16,9 @@
     "url": "https://github.com/islamyakin/packdock/issues"
   },
   "homepage": "https://github.com/islamyakin/packdock#readme"
-}
+
+  "publishConfig": {
+   "@islamyakin:registry": "https://npm.pkg.github.com"
+  },
+
+ }
